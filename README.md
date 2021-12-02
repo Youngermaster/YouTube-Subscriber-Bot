@@ -10,6 +10,7 @@ I recomend to use *Python virtual environments*.
 python -m venv venv
 ./venv/Scripts/activate
 pip intall -r requirements.txt
+python youtube_subscriber.py
 ```
 
 ## What I meant by `[DEPRECATED]`?
