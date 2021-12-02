@@ -1,4 +1,4 @@
-# YouTube-Suscriber-Bot `[DEPRECATED]`
+# YouTube-Subscriber-Bot `[DEPRECATED]`
 
 The idea is to create a bot that subscribes to a given channel automatically
 
